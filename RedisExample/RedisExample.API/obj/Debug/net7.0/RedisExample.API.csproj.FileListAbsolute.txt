@@ -31,3 +31,10 @@ C:\Users\efeka\Desktop\C#\RedisExample\RedisExample.API\obj\Debug\net7.0\refint\
 C:\Users\efeka\Desktop\C#\RedisExample\RedisExample.API\obj\Debug\net7.0\RedisExample.API.pdb
 C:\Users\efeka\Desktop\C#\RedisExample\RedisExample.API\obj\Debug\net7.0\RedisExample.API.genruntimeconfig.cache
 C:\Users\efeka\Desktop\C#\RedisExample\RedisExample.API\obj\Debug\net7.0\ref\RedisExample.API.dll
+C:\Users\efeka\Desktop\C#\RedisExample\RedisExample.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\efeka\Desktop\C#\RedisExample\RedisExample.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\efeka\Desktop\C#\RedisExample\RedisExample.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\efeka\Desktop\C#\RedisExample\RedisExample.API\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\efeka\Desktop\C#\RedisExample\RedisExample.API\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\Users\efeka\Desktop\C#\RedisExample\RedisExample.API\bin\Debug\net7.0\RedisExampleApp.Cache.dll
+C:\Users\efeka\Desktop\C#\RedisExample\RedisExample.API\bin\Debug\net7.0\RedisExampleApp.Cache.pdb
